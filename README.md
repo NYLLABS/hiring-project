@@ -3,7 +3,7 @@ Welcome, candidate! Thank you for your interest in our application process. Plea
 
 We recognize the time it takes to complete a take-home project, therefore all projects will recieve an assessment of their work, including both areas of achievement and areas for improvment, regardless of next steps in their candidacy.
 
-The project can be finished in as little as 2 day. We expect the project to take no more than 4 days.
+The project can be finished in as little as 2 days. We expect the project to take no more than 4 days.
 
 # Intro
 
@@ -59,7 +59,7 @@ The trickiest part is that the reviews for each robo-assistant is not embedded i
 
 ### B2. Understand the API
 
-[Robo-assist API](https://github.com/NYLLABS/hiring-robo-project/wiki/Robo-assist-API) is the premiere API for accessing the robo-assistant database. It will be helpful to verify that you can make calls to all the routes.
+[Robo-assist API](https://github.com/NYLLABS/hiring-project/wiki/Robo-assist-API) is the premiere API for accessing the robo-assistant database. It will be helpful to verify that you can make calls to all the routes.
 
 + Use [Postman](https://www.getpostman.com/), cURL, or [httpie](https://httpie.org/) for testing the routes.
 + Follow the documentation to:
